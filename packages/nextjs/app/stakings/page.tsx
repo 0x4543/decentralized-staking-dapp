@@ -40,13 +40,16 @@ const Stakings: NextPage = () => {
                 </td>
               </tr>
             ) : (
-              stakeEvents?.map((event, index) => {
+              stakeEvents.map((event, index) => {
+                const staker = event.args?.staker ?? "0x0000000000000000000000000000000000000000";
+                const amount = event.args?.amount ?? 0n;
+
                 return (
                   <tr key={index}>
                     <td>
-                      <Address address={event.args?.[0]} />
+                      <Address address={staker} />
                     </td>
-                    <td>{formatEther(event.args?.[1] || 0n)} ETH</td>
+                    <td>{formatEther(amount)} ETH</td>
                   </tr>
                 );
               })
