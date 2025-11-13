@@ -1,6 +1,6 @@
 # 🔏 Decentralized Staking dApp
 
-A decentralized Ethereum staking application built as part of the **SpeedRunEthereum Challenge #2** — “Decentralized Staking App”.
+A decentralized Ethereum staking application built as part of the [**SpeedRunEthereum Challenge #2 — Decentralized Staking App**](https://speedrunethereum.com/challenge/decentralized-staking).
 
 ## 🌐 Live Demo
 
