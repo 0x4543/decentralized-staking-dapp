@@ -42,4 +42,4 @@ yarn start
 
 ## 🗾 License
 
-MIT
+[MIT](LICENSE)
