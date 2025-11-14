@@ -20,7 +20,7 @@ This project demonstrates a minimal Ethereum dApp that allows users to:
 
 - **Solidity / Hardhat** — Smart contract development and deployment
 - **Next.js / React / Tailwind** — Frontend
-- **Viem / Wagmi / RainbowKit** — Web3 integration
+- **viem / wagmi / RainbowKit** — Web3 integration
 - **Alchemy / Etherscan** — RPC & verification
 - **Vercel** — Deployment
 
