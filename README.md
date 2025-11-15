@@ -5,7 +5,7 @@ A decentralized Ethereum staking application built as part of the [**SpeedRunEth
 ## 🌐 Live Demo
 
 - **Frontend (Vercel):** [staker-ui](https://nextjs-iwh04s6kw-dormins-projects.vercel.app/staker-ui)
-- **Smart Contract (Sepolia):** [0xD512726A446aDE2c56F8AD0da5412E801F03ebe1](https://sepolia.etherscan.io/address/0xD512726A446aDE2c56F8AD0da5412E801F03ebe1)
+- **Smart Contract (Sepolia):** [0xD512726A446aDE2c56F8AD0da5412E801F03ebe1](https://sepolia.etherscan.io/address/0xD512726A446aDE2c56F8AD0da5412E801F03ebe1#code)
 
 ## 🧬 About
 
